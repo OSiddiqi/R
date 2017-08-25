@@ -1,0 +1,5 @@
+"","t.x","t.y","t.Freq","prop.row.x","prop.row.y","prop.row.Freq","prop.col.x","prop.col.y","prop.col.Freq","prop.tbl.x","prop.tbl.y","prop.tbl.Freq"
+"1","B","B",75,"B","B",0.974025974025974,"B","B",1,"B","B",0.75
+"2","M","B",0,"M","B",0,"M","B",0,"M","B",0
+"3","B","M",2,"B","M",0.025974025974026,"B","M",0.08,"B","M",0.02
+"4","M","M",23,"M","M",1,"M","M",0.92,"M","M",0.23
